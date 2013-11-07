@@ -1,0 +1,30 @@
+H:\213\Lab10\Lab10\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.Resources.resources
+H:\213\Lab10\Lab10\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\213\Lab10\Lab10\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\213\Lab10\Lab10\bin\Debug\Lab10.exe
+H:\213\Lab10\Lab10\bin\Debug\Lab10.pdb
+H:\213\Lab10\Lab10\bin\Debug\Lab10.xml
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.Form1.resources
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.xml
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.pdb
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.ShoppingCartForm.resources
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.ItemDetailsForm.resources
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.PlaceOrderForm.resources
+H:\213\Lab10\Lab10\obj\x86\Debug\Lab10.OrderConfirmationForm.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\bin\Debug\Lab10.xml
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.Form1.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.OrderConfirmationForm.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.PlaceOrderForm.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.ShoppingCartForm.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.ItemDetailsForm.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\Lab10.Resources.resources
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natacha\Documents\School\Fall 2011\Visual Basics\Labs\Lab10\Lab10\obj\x86\Debug\GenerateResource.write.1.tlog
